@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/YungKingJayy/NFT-PREVIEW-CARD-COMPONENT)
-- Live Site URL: [Add live site URL here](https://jayynftpreviewcard.netlify.app/)
+- Solution URL: [https://github.com/YungKingJayy/NFT-PREVIEW-CARD-COMPONENT](https://github.com/YungKingJayy/NFT-PREVIEW-CARD-COMPONENT)
+- Live Site URL: [https://jayynftpreviewcard.netlify.app/](https://jayynftpreviewcard.netlify.app/)
 
 ### Built with
 

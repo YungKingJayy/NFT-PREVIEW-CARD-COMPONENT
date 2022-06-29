@@ -1,0 +1,113 @@
+
+
+body{
+    background-color: hsl(217, 54%, 11%) !important;
+}
+
+.card{
+    width: 305px;
+    margin: 100px auto !important;
+    background-color: hsl(216, 50%, 16%) !important;   
+    border-radius: 15px !important;
+}
+
+.card h5{
+    font-family: 'Outfit', sans-serif;
+}
+
+.card h5:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+.card>p{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    color: hsl(215, 51%, 70%) !important;
+}
+
+.image{
+    position: relative;
+}
+
+.eth-pic{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.overlay{
+    position: absolute;
+    background-color: hsla(178, 100%, 50%, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    border-radius: 10px;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.overlay:hover{
+    opacity: 1;
+}
+
+.overlay img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#eth{
+    align-items: center;
+}
+
+#eth h5{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px !important;
+    color: hsl(178, 100%, 50%) !important;
+}
+
+#eth p{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px !important;
+    color: hsl(215, 51%, 70%);
+}
+
+.line{
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+    color: hsl(215, 32%, 27%);
+}
+
+#creation{
+    align-items: center;
+    text-align: center;
+}
+
+#creation span{    
+    color: #ffffff;
+}
+
+#creation p{
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+#icon{
+    align-items: center;
+}
+
+#creation span:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+.icon-clock{
+    display: flex;
+    align-items: center;
+}
+
+.icon-clock p{
+    margin: 0 !important;
+}

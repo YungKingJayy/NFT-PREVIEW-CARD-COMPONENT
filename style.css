@@ -11,11 +11,11 @@ body{
     border-radius: 15px !important;
 }
 
-.card h5{
+.card h1{
     font-family: 'Outfit', sans-serif;
 }
 
-.card h5:hover{
+.card h1:hover{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
 }

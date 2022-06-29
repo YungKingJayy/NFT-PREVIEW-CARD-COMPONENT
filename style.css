@@ -62,7 +62,7 @@ body{
     align-items: center;
 }
 
-#eth h5{
+#eth h2{
     font-family: 'Outfit', sans-serif;
     font-size: 15px !important;
     color: hsl(178, 100%, 50%) !important;
